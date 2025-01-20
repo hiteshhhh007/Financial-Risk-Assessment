@@ -1,6 +1,6 @@
 # 📊 Case Study: Exploratory Data Analysis in Risk Analytics for Banking and Financial Services
 
-## 🏦 Business Understanding
+## 🏦 Business Understanding (Given P.S)
 
 Lending money is a high-stakes game, especially when dealing with clients with insufficient or non-existent credit histories. This makes it challenging for loan-providing companies to make informed decisions, as some consumers may default due to the lack of historical data on their creditworthiness. As a data analyst working for a consumer finance company that specializes in urban customer loans, your task is to utilize Exploratory Data Analysis (EDA) to unearth patterns in the data. This will help ensure that capable applicants are not unjustly rejected.
 
